@@ -16,7 +16,7 @@ import (
 	"time"
 )
 
-var discordWebhookURL = "https://discord.com/api/webhooks/1378856121522982924/IE0hsInpOCTmlQcrxfcxENruI2W2n1HqXTjpzBlbz78b5Hv7T4L9VC3zVwTGwYfSs05d" // Ganti dengan webhook kamu
+var discordWebhookURL = "x" // Ganti dengan webhook kamu
 
 type rgOutput struct {
 	Type string `json:"type"`
